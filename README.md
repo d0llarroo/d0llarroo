@@ -1,4 +1,6 @@
-# Bonsoir
+<h1 align="center">Bonsoir</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cranki-s&label=Profile%20views&color=751affstyle=flat" alt="d0llarroo"/> </p>
 
 > **Main Languages**
 > 
@@ -10,4 +12,3 @@
 > ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 > ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-</br>
