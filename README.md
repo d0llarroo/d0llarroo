@@ -1,5 +1,4 @@
-# README
-Greetings GanG!
+# Bonsoir
 
 > **Main Languages**
 > 
@@ -11,8 +10,4 @@ Greetings GanG!
 > ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 > ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-
-</br>
-
-<span>GitHub : [d0llarroo](https://github.com/d0llarroo)</span>
 </br>
